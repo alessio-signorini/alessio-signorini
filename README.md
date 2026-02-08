@@ -2,7 +2,7 @@
 
 📍 **Santa Barbara, CA** · CTO · Product Leader · AI Research
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat) ![Ruby](https://img.shields.io/badge/-Ruby-333?style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat) ![Swift](https://img.shields.io/badge/-Swift-333?style=flat) ![Go](https://img.shields.io/badge/-Go-333?style=flat) ![Rust](https://img.shields.io/badge/-Rust-333?style=flat) ![C](https://img.shields.io/badge/-C-333?style=flat) ![Java](https://img.shields.io/badge/-Java-333?style=flat) ![Perl](https://img.shields.io/badge/-Perl-333?style=flat) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat) ![Assembler](https://img.shields.io/badge/-Assembler-333?style=flat) 
+![Python](https://img.shields.io/badge/-Python-6899c4?style=flat&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-d45d5d?style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-5b9bd5?style=flat&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-333?style=flat&logoColor=white) ![Go](https://img.shields.io/badge/-Go-333?style=flat&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logoColor=white) ![C](https://img.shields.io/badge/-C-333?style=flat&logoColor=white) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-333?style=flat&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logoColor=white) ![Assembler](https://img.shields.io/badge/-Assembler-333?style=flat&logoColor=white) 
 > 20+ years leading product and engineering from founding to scale — co-founded Evidation Health ($1B+ digital health, $300M+ raised, millions of users). Led a cross-functional org spanning product, engineering, infra, data science, and TPM. PhD in CS (AI & Epidemiology) with 18 publications (~3K citations) and 10 patents. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
 
 🔗 [alessiosignorini.com](https://alessiosignorini.com) · ✍️ [blog](https://blog.alessiosignorini.com)
@@ -10,39 +10,39 @@
 ---
 
 ## 🚀 Projects
-- ⭐ **[/meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
-- **[Timelog](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
-- ⭐ **[Tri@ge](http://alessiosignorini.com/triage-email/)** — Intelligent, keyboard-driven email client for Gmail
-- **coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
-- **[health-chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates responses using Claude AI
-- **[ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
+- **[👖 /meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
+- **[🤖 Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
+- **[📨 Tri@ge](http://alessiosignorini.com/triage-email/)** — Intelligent, keyboard-driven email client for Gmail
+- **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
+- **[💬 Health Chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
+- **[👥 ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
 - **google-photos-account-migration** — Web-based app to Migrate Google Photos from one Account to Another
-- ⭐ **[jk-blog](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
-- **🗺️ WarmGuides** — Shareable, Map-first, Local Itineraries - Platform for creating and sharing beautiful, interactive travel itineraries...
+- **[📝 Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
+- **🗺️ WarmGuides** — Shareable, Map-first, Local Itineraries - Platform for creating and sharing beautiful, interactiv...
 - **KeepInTouch** — Personal CRM to keep in touch with friends
 - **📑 Slack Channel Summarizer** — Slack Function to Summarize the content of a Channel
 - **📆 Google Tasks to Calendar** — Intelligently Schedule Google Tasks on your Calendar
 - **[🔐 Simple Passphrase Generator](https://github.com/alessio-signorini/chrome-extension-passphrase-generator)** — Simple Chrome Extension that Generates Random Passphrases
 - **[📚 Morning Reads](https://github.com/alessio-signorini/morning-reads)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
 - **[🛍️ HelpMeBuy](https://github.com/alessio-signorini/helpmebuy)** — Apple-inspired web application to help users find their perfect washing machine
-- **[Apimock](https://github.com/alessio-signorini/apimock)** — Mock API server
+- **[APImock](https://github.com/alessio-signorini/apimock)** — Mock API server
 - **[🗓️ Calendars](https://github.com/alessio-signorini/calendars)** — Useful Calendars to be added to my Google Calendar
 - **[🧑‍⚖️ OSS Audit](https://github.com/alessio-signorini/oss_audit)** — Open Source Software Auditor
-- **[Golinks](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
+- **[🔎 Private Golinks Server](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
 
 
 ## 🔭 Currently Exploring
-- **VS Extension for Coworking** — Next-gen IDE will have to be built around LLMs/human interaction. I am experimenting with what that may be. Code, graphs, explanations on...
+- **VS Extension for Coworking** — Next-gen IDE will have to be built around LLMs/human interaction. I am experimenting with what that may be. Code, graphs, explanations on the edges. The machine writes the code but the human architects it and is in the know.
 - [Claude Cowork](https://docs.anthropic.com) — Pair programming with AI agents — how multi-agent collaboration is changing the way code gets written.
-- [OpenClaw](https://github.com/openclaw/openclaw) — Open-source personal assistant with memory, personality and initiative. Trying to run my own on a cheap Fly.io machine and interact with ...
+- [OpenClaw](https://github.com/openclaw/openclaw) — Open-source personal assistant with memory, personality and initiative. Trying to run my own on a cheap Fly.io machine and interact with it via Telegram.
 - [Requirements as Code](https://blog.alessiosignorini.com/requirements-as-code/) — Encoding requirements so AI agents can follow them — moving from natural language specs to machine-verifiable constraints.
 - [Fine-tuning LLMs for corporate codebases](https://blog.alessiosignorini.com/fine-tuning-llms-to-companys-codebase/) — Context management at scale — exploring how to fine-tune models on proprietary code without leaking sensitive data.
 
 
 ## ✍️ Latest Blog Posts
-- [Startups Are Now Just MVPs for Tech Giants](https://blog.alessiosignorini.com/startups-are-now-just-mvps-for-tech-giants/) (Feb 2026)
-- [Attacks, Risks and LLM in the Build vs. Buy Equation](https://blog.alessiosignorini.com/attacks-risks-and-llm-in-the-build-vs-buy-equation/) (Feb 2026)
-- [Pumping the Brakes on AI-Driven Team Cuts](https://blog.alessiosignorini.com/pumping-the-brakes-on-ai-driven-team-cuts/) (Feb 2026)
+- [Startups Are Now Just MVPs for Tech Giants](https://blog.alessiosignorini.com/startups-are-now-just-mvps-for-tech-giants/) (Feb 7, 2026)
+- [Attacks, Risks and LLM in the Build vs. Buy Equation](https://blog.alessiosignorini.com/attacks-risks-and-llm-in-the-build-vs-buy-equation/) (Feb 5, 2026)
+- [Pumping the Brakes on AI-Driven Team Cuts](https://blog.alessiosignorini.com/pumping-the-brakes-on-ai-driven-team-cuts/) (Feb 2, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
