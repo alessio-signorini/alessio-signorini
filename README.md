@@ -3,7 +3,7 @@
 📍 **Santa Barbara, CA** · CTO · Product Leader · AI Research
 
 ![Python](https://img.shields.io/badge/-Python-6899c4?style=flat&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-d45d5d?style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-5b9bd5?style=flat&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-333?style=flat&logoColor=white) ![Go](https://img.shields.io/badge/-Go-333?style=flat&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logoColor=white) ![C](https://img.shields.io/badge/-C-333?style=flat&logoColor=white) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-333?style=flat&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logoColor=white) ![Assembler](https://img.shields.io/badge/-Assembler-333?style=flat&logoColor=white) 
-> 20+ years leading product and engineering from founding to scale — co-founded Evidation Health ($1B+ digital health, $300M+ raised, millions of users). Led a cross-functional org spanning product, engineering, infra, data science, and TPM. PhD in CS (AI & Epidemiology) with 18 publications (~3K citations) and 10 patents. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
+> 20+ years leading product and engineering from founding to scale — co-founded Evidation Health ($1B+ digital health, $250M+ raised, millions of users). Led a cross-functional org spanning product, engineering, infra, data science, and TPM. PhD in CS (AI & Epidemiology) with 18 publications (~3K citations) and 10 patents. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
 
 🔗 [alessiosignorini.com](https://alessiosignorini.com) · ✍️ [blog](https://blog.alessiosignorini.com)
 
@@ -16,7 +16,7 @@
 - **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
 - **[💬 Health Chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
 - **[👥 ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
-- **google-photos-account-migration** — Web-based app to Migrate Google Photos from one Account to Another
+- **gPhotoMigrate** — Utility to migrate Photos from one Google Account to Another
 - **[📝 Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
 - **🗺️ WarmGuides** — Shareable, Map-first, Local Itineraries - Platform for creating and sharing beautiful, interactiv...
 - **KeepInTouch** — Personal CRM to keep in touch with friends
@@ -25,7 +25,7 @@
 - **[🔐 Simple Passphrase Generator](https://github.com/alessio-signorini/chrome-extension-passphrase-generator)** — Simple Chrome Extension that Generates Random Passphrases
 - **[📚 Morning Reads](https://github.com/alessio-signorini/morning-reads)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
 - **[🛍️ HelpMeBuy](https://github.com/alessio-signorini/helpmebuy)** — Apple-inspired web application to help users find their perfect washing machine
-- **[APImock](https://github.com/alessio-signorini/apimock)** — Mock API server
+- **[💾 APImock](https://github.com/alessio-signorini/apimock)** — Simple but convenient mock API server
 - **[🗓️ Calendars](https://github.com/alessio-signorini/calendars)** — Useful Calendars to be added to my Google Calendar
 - **[🧑‍⚖️ OSS Audit](https://github.com/alessio-signorini/oss_audit)** — Open Source Software Auditor
 - **[🔎 Private Golinks Server](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
