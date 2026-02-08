@@ -3,7 +3,7 @@
 📍 **Santa Barbara, CA** · CTO · Product Leader · AI Research
 
 ![Python](https://img.shields.io/badge/-Python-6899c4?style=flat&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-d45d5d?style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-5b9bd5?style=flat&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-333?style=flat&logoColor=white) ![Go](https://img.shields.io/badge/-Go-333?style=flat&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-333?style=flat&logoColor=white) ![C](https://img.shields.io/badge/-C-333?style=flat&logoColor=white) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-333?style=flat&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logoColor=white) ![Assembler](https://img.shields.io/badge/-Assembler-333?style=flat&logoColor=white) 
-> 20+ years leading product and engineering from founding to scale — co-founded Evidation Health ($1B+ digital health, $250M+ raised, millions of users). Led a cross-functional org spanning product, engineering, infra, data science, and TPM. PhD in CS (AI & Epidemiology) with 18 publications (~3K citations) and 10 patents. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
+> 20+ years leading product and engineering from founding to scale — co-founded Evidation Health ($1B+ digital health, $250M+ raised, millions of users). Led cross-functional orgs spanning product, engineering, infra, security, data science, and TPM. PhD in CS (AI & Epidemiology) with __PUBS_COUNT__ publications (~__CITATIONS__ citations), __PATENTS_COUNT__ patents, and __TALKS_COUNT__+ conference talks. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
 
 🔗 [alessiosignorini.com](https://alessiosignorini.com) · ✍️ [blog](https://blog.alessiosignorini.com)
 
@@ -47,11 +47,10 @@
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
 ## 💼 Career Highlights
-- **Co-Founder & CTO** at [Evidation Health](https://evidation.com) (2013–present) — Digital health platform connecting millions of users to research and health insights with AI across every product. Own product, engineeri...
+- **Co-Founder & CTO** at [Evidation Health](https://evidation.com) (2013–present) — Digital health platform connecting millions of users to research and health insights with AI across every product. Own engineering, produ...
 - **Co-Founder & CTO** at [IMRSV / Immersive Labs](https://www.miamiherald.com/news/business/article17474594.html) (2011–2013) — Computer vision startup — real-time face detection and audience analytics for digital billboards. TechStars NYC 2011.
 - **Director of Search Technology** at [OneRiot](https://techcrunch.com/2011/09/13/walmart-acquires-mobile-and-social-ad-targeting-startup-oneriot/) (2009–2011) — Real-time social search engine indexing and ranking content shared across social networks.
 - **Director of Technology, Answers** at [Ask.com](https://www.ask.com) (2006–2009) — Search technology, NLP, classification and spam detection for a top-5 US search engine.
-- **Research Assistant** at [University of Iowa](https://cs.uiowa.edu) (2004–2006) — Graduate research in web-scale information retrieval, social media analysis, and computational epidemiology under Prof. Padmini Srinivasan.
 
 
 ## 📚 Research & Publications
