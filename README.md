@@ -3,7 +3,7 @@
 📍 **Santa Barbara, CA** · CTO · Product Leader · AI Research
 
 ![Python](https://img.shields.io/badge/-Python-3572A5?style=flat&logoColor=white) ![Ruby](https://img.shields.io/badge/-Ruby-701516?style=flat&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat&logoColor=white) ![C](https://img.shields.io/badge/-C-555555?style=flat&logoColor=white) ![Java](https://img.shields.io/badge/-Java-b07219?style=flat&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-0298c3?style=flat&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-e38c00?style=flat&logoColor=white) ![Assembler](https://img.shields.io/badge/-Assembler-6E4C13?style=flat&logoColor=white) 
-> 20+ years leading product and engineering from founding to scale — co-founded Evidation Health ($1B+ digital health, $250M+ raised, millions of users). Led cross-functional orgs spanning product, engineering, infra, security, data science, and TPM. PhD in CS (AI & Epidemiology) with __PUBS_COUNT__ publications (~__CITATIONS__ citations), __PATENTS_COUNT__ patents, and __TALKS_COUNT__+ conference talks. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
+> 20+ years leading product and engineering from founding to scale — Director of Technology at Ask.com (IAC) and OneRiot (acq. Walmart Labs); co-founded IMRSV (acq. Kairos) and Evidation Health ($1B+ digital health, millions of users). Led cross-functional orgs spanning product, engineering, infra, security, data science, and TPM. PhD in CS (AI & Epidemiology) with __PUBS_COUNT__ publications (~__CITATIONS__ citations), __PATENTS_COUNT__ patents, and __TALKS_COUNT__+ conference talks. TechStars mentor, angel investor, and startup advisor. Currently building multi-modal health foundation models and LLM-driven workflows.
 
 🔗 [alessiosignorini.com](https://alessiosignorini.com) · ✍️ [blog](https://blog.alessiosignorini.com)
 
@@ -69,4 +69,4 @@
 
 ---
 
-<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 8, 2026.</sub>
+<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 9, 2026.</sub>
