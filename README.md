@@ -10,6 +10,7 @@
 ---
 
 ## 🚀 Projects
+- **[👨‍💼 Candidates Manager](https://candidates.signorini.dev)** — A clean, low-touch candidate tracking system powered by LLM
 - **[👖 /meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
 - **[🤖 Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
 - **[📨 Tri@ge](http://alessiosignorini.com/triage-email/)** — Intelligent, keyboard-driven email client for Gmail
@@ -69,4 +70,4 @@
 
 ---
 
-<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 11, 2026.</sub>
+<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 12, 2026.</sub>
