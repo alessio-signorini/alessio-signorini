@@ -22,7 +22,7 @@
 - **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
 - 💬 **[Health Chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
 - 👥 **[ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
-- **google-photos-account-migration** — Web-based app to Migrate Google Photos from one Account to Another
+- **gPhotoMigrate** — Utility to migrate Photos from one Google Account to Another
 - 📝 **[Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
 - **🗺️ WarmGuides** — Shareable, Map-first, Local Itineraries - Platform for creating and sharing beautiful, interactiv...
 - **KeepInTouch** — Personal CRM to keep in touch with friends
@@ -31,7 +31,7 @@
 - 🔐 **[Simple Passphrase Generator](https://github.com/alessio-signorini/chrome-extension-passphrase-generator)** — Simple Chrome Extension that Generates Random Passphrases
 - 📚 **[Morning Reads](https://github.com/alessio-signorini/morning-reads)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
 - 🛍️ **[HelpMeBuy](https://github.com/alessio-signorini/helpmebuy)** — Apple-inspired web application to help users find their perfect washing machine
-- **[APImock](https://github.com/alessio-signorini/apimock)** — Mock API server
+- 💾 **[APImock](https://github.com/alessio-signorini/apimock)** — Simple but convenient mock API server
 - 🗓️ **[Calendars](https://github.com/alessio-signorini/calendars)** — Useful Calendars to be added to my Google Calendar
 - 🧑‍⚖️ **[OSS Audit](https://github.com/alessio-signorini/oss_audit)** — Open Source Software Auditor
 - 🔎 **[Private Golinks Server](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
@@ -46,9 +46,9 @@
 
 
 ## ✍️ Latest Blog Posts
+- [Securing OpenClaw via Proxy](https://blog.alessiosignorini.com/securing-openclaw-via-proxy/) (Feb 10, 2026)
 - [Startups Are Now Just MVPs for Tech Giants](https://blog.alessiosignorini.com/startups-are-now-just-mvps-for-tech-giants/) (Feb 7, 2026)
 - [Attacks, Risks and LLM in the Build vs. Buy Equation](https://blog.alessiosignorini.com/attacks-risks-and-llm-in-the-build-vs-buy-equation/) (Feb 5, 2026)
-- [Pumping the Brakes on AI-Driven Team Cuts](https://blog.alessiosignorini.com/pumping-the-brakes-on-ai-driven-team-cuts/) (Feb 2, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
