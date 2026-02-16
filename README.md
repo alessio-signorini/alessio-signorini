@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Projects
-- 📝 **[AppleNoted](imap://notes.signorini.dev)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
+- 📝 **[AppleNoted](https://github.com/alessio-signorini/notes-imap-server)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
 - 👨‍💼 **[Candidates Manager](https://candidates.signorini.dev)** — A clean, low-touch candidate tracking system powered by LLM
 - 👖 **[/meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
 - 🤖 **[Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
