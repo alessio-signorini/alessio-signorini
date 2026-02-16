@@ -23,7 +23,6 @@
 - **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
 - 💬 **[Health Chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
 - 👥 **[ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
-- **gPhotoMigrate** — Utility to migrate Photos from one Google Account to Another
 - 📝 **[Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
 - **📑 Slack Channel Summarizer** — Slack Function to Summarize the content of a Channel
 - **📆 Google Tasks to Calendar** — Intelligently Schedule Google Tasks on your Calendar
