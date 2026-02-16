@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 Projects
+- 📝 **[AppleNoted](imap://notes.signorini.dev)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
 - 👨‍💼 **[Candidates Manager](https://candidates.signorini.dev)** — A clean, low-touch candidate tracking system powered by LLM
 - 👖 **[/meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
 - 🤖 **[Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
@@ -24,8 +25,6 @@
 - 👥 **[ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
 - **gPhotoMigrate** — Utility to migrate Photos from one Google Account to Another
 - 📝 **[Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
-- **🗺️ WarmGuides** — Shareable, Map-first, Local Itineraries - Platform for creating and sharing beautiful, interactiv...
-- **KeepInTouch** — Personal CRM to keep in touch with friends
 - **📑 Slack Channel Summarizer** — Slack Function to Summarize the content of a Channel
 - **📆 Google Tasks to Calendar** — Intelligently Schedule Google Tasks on your Calendar
 - 🔐 **[Simple Passphrase Generator](https://github.com/alessio-signorini/chrome-extension-passphrase-generator)** — Simple Chrome Extension that Generates Random Passphrases
@@ -75,4 +74,4 @@
 
 ---
 
-<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 15, 2026.</sub>
+<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 16, 2026.</sub>
