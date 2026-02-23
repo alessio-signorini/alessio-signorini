@@ -44,9 +44,9 @@
 
 
 ## ✍️ Latest Blog Posts
+- [Teladoc and COVID Paved the Way for AI Doctors](https://blog.alessiosignorini.com/teladoc-and-covid-paved-the-way-for-ai-doctors/) (Feb 23, 2026)
 - [Securing OpenClaw via Proxy](https://blog.alessiosignorini.com/securing-openclaw-via-proxy/) (Feb 10, 2026)
 - [Startups Are Now Just MVPs for Tech Giants](https://blog.alessiosignorini.com/startups-are-now-just-mvps-for-tech-giants/) (Feb 7, 2026)
-- [Attacks, Risks and LLM in the Build vs. Buy Equation](https://blog.alessiosignorini.com/attacks-risks-and-llm-in-the-build-vs-buy-equation/) (Feb 5, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
@@ -73,4 +73,4 @@
 
 ---
 
-<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 22, 2026.</sub>
+<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on February 23, 2026.</sub>
