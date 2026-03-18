@@ -15,6 +15,9 @@
 ---
 
 ## 🚀 Projects
+- ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
+- 📑 **[Tiny Markdown Render](http://alessiosignorini.com/tiny-markdown-render-extension/)** — Tiny Chrome Extension that Render Markdown as clean HTML
+- 📝 **[AppleNoted](https://github.com/alessio-signorini/notes-imap-server)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
 - 👨‍💼 **[Candidates Manager](https://candidates.signorini.dev)** — A clean, low-touch candidate tracking system powered by LLM
 - 👖 **[/meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
 - 🤖 **[Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
@@ -22,16 +25,13 @@
 - **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
 - 💬 **[Health Chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
 - 👥 **[ResourceFlow](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
-- **google-photos-account-migration** — Web-based app to Migrate Google Photos from one Account to Another
 - 📝 **[Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
-- **🗺️ WarmGuides** — Shareable, Map-first, Local Itineraries - Platform for creating and sharing beautiful, interactiv...
-- **KeepInTouch** — Personal CRM to keep in touch with friends
 - **📑 Slack Channel Summarizer** — Slack Function to Summarize the content of a Channel
 - **📆 Google Tasks to Calendar** — Intelligently Schedule Google Tasks on your Calendar
 - 🔐 **[Simple Passphrase Generator](https://github.com/alessio-signorini/chrome-extension-passphrase-generator)** — Simple Chrome Extension that Generates Random Passphrases
 - 📚 **[Morning Reads](https://github.com/alessio-signorini/morning-reads)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
 - 🛍️ **[HelpMeBuy](https://github.com/alessio-signorini/helpmebuy)** — Apple-inspired web application to help users find their perfect washing machine
-- **[APImock](https://github.com/alessio-signorini/apimock)** — Mock API server
+- 💾 **[APImock](https://github.com/alessio-signorini/apimock)** — Simple but convenient mock API server
 - 🗓️ **[Calendars](https://github.com/alessio-signorini/calendars)** — Useful Calendars to be added to my Google Calendar
 - 🧑‍⚖️ **[OSS Audit](https://github.com/alessio-signorini/oss_audit)** — Open Source Software Auditor
 - 🔎 **[Private Golinks Server](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
@@ -77,4 +77,4 @@
 
 ---
 
-<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on March 17, 2026.</sub>
+<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on March 18, 2026.</sub>
