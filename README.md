@@ -46,11 +46,11 @@
 
 
 ## ✍️ Latest Blog Posts
+- [Vertical Models are coming](https://blog.alessiosignorini.com/vertical-models-are-coming/) (Mar 27, 2026)
 - [The 10,000 Hour Reset - you need side projects](https://blog.alessiosignorini.com/the-10000-hour-reset-you-need-side-projects/) (Mar 14, 2026)
 - [SaaS will suffer in 2026](https://blog.alessiosignorini.com/saas-will-suffer-in-2026/) (Feb 24, 2026)
 - [Teladoc and COVID Paved the Way for AI Doctors](https://blog.alessiosignorini.com/teladoc-and-covid-paved-the-way-for-ai-doctors/) (Feb 23, 2026)
 - [Securing OpenClaw via Proxy](https://blog.alessiosignorini.com/securing-openclaw-via-proxy/) (Feb 10, 2026)
-- [Startups Are Now Just MVPs for Tech Giants](https://blog.alessiosignorini.com/startups-are-now-just-mvps-for-tech-giants/) (Feb 7, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
@@ -77,4 +77,4 @@
 
 ---
 
-<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on March 22, 2026.</sub>
+<sub>Auto-generated from [alessiosignorini.com](https://alessiosignorini.com) on March 27, 2026.</sub>
