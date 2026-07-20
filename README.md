@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Projects
-- WiFi **[QR Code Generator](https://github.com/alessio-signorini/wifi-qrcode-generator)** — QR Code Generator for Wifi Networks
+- 📶 **[WiFi QR Code Generator](https://github.com/alessio-signorini/wifi-qrcode-generator)** — QR Code Generator for Wifi Networks
 - ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
 - 📑 **[Tiny Markdown Render](http://alessiosignorini.com/tiny-markdown-render-extension/)** — Tiny Chrome Extension that Render Markdown as clean HTML
 - 📝 **[AppleNoted](https://github.com/alessio-signorini/notes-imap-server)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
