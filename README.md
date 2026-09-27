@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Projects
-- **💌 Funny Invites - Use it, they can't say no** — Use it, they can't say no
+- 💌 **[Funny Invites - Use it, they can't say no](https://invites.signorini.dev/jen-weekend-in-nyc)** — Use it, they can't say no
 - 📱 **[iosbk - iOS Backup Utility](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
 - 📶 **[WiFi QR Code Generator](https://github.com/alessio-signorini/wifi-qrcode-generator)** — QR Code Generator for Wifi Networks
 - ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
