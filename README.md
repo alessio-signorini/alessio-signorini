@@ -17,14 +17,14 @@
 ## 🚀 Projects
 - 💌 **[Funny Invites - Use it, they can't say no](https://invites.signorini.dev/jen-weekend-in-nyc)** — Use it, they can't say no
 - 📱 **[iosbk - iOS Backup Utility](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
-- 📶 **[WiFi QR Code Generator](https://github.com/alessio-signorini/wifi-qrcode-generator)** — QR Code Generator for Wifi Networks
+- 📶 **[WiFi QR Code Generator](https://wifi-qrcode.signorini.dev)** — QR Code Generator for Wifi Networks
 - ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
 - **🗓️ TinyTimesheets - lightweight macOS menu bar app to track time** — lightweight macOS menu bar app to track time
 - 📑 **[Tiny Markdown Render](http://alessiosignorini.com/tiny-markdown-render-extension/)** — Tiny Chrome Extension that Render Markdown as clean HTML
 - 📝 **[AppleNoted](https://github.com/alessio-signorini/notes-imap-server)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
 - **📚 Knowledge Collector** — Generate a beautiful documentation site from meeting transcripts
 - 👨‍💼 **[Candidates Manager](https://candidates.signorini.dev)** — A clean, low-touch candidate tracking system powered by LLM
-- 👖 **[/meet](https://github.com/alessio-signorini/slack-meet-command)** — Create Google Meet links instantly with a Slack command
+- 👖 **[/meet](https://slack-meet-command.signorini.dev)** — Create Google Meet links instantly with a Slack command
 - 🤖 **[Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
 - 📨 **[Tri@ge](http://alessiosignorini.com/triage-email/)** — Intelligent, keyboard-driven email client for Gmail
 - **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
@@ -33,11 +33,11 @@
 - 📝 **[Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
 - **📑 Slack Channel Summarizer** — Slack Function to Summarize the content of a Channel
 - **📆 Google Tasks to Calendar** — Intelligently Schedule Google Tasks on your Calendar
-- 🔐 **[Simple Passphrase Generator](https://github.com/alessio-signorini/chrome-extension-passphrase-generator)** — Simple Chrome Extension that Generates Random Passphrases
+- 🔐 **[Simple Passphrase Generator](https://chromewebstore.google.com/detail/simple-passphrase-generat/ifcfhpphhpmancimadhkfpchbjjokeij)** — Simple Chrome Extension that Generates Random Passphrases
 - 📚 **[Morning Reads](https://github.com/alessio-signorini/morning-reads)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
-- 🛍️ **[HelpMeBuy](https://github.com/alessio-signorini/helpmebuy)** — Apple-inspired web application to help users find their perfect washing machine
+- 🛍️ **[HelpMeBuy](https://alessiosignorini.com/helpmebuy/)** — Apple-inspired web application to help users find their perfect washing machine
 - 💾 **[APImock](https://github.com/alessio-signorini/apimock)** — Simple but convenient mock API server
-- 🗓️ **[Calendars](https://github.com/alessio-signorini/calendars)** — Useful Calendars to be added to my Google Calendar
+- 🗓️ **[Calendars](https://calendars.signorini.dev)** — Useful Calendars to be added to my Google Calendar
 - 🧑‍⚖️ **[OSS Audit](https://github.com/alessio-signorini/oss_audit)** — Open Source Software Auditor
 - 🔎 **[Private Golinks Server](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
 
