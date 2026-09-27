@@ -15,9 +15,11 @@
 ---
 
 ## 🚀 Projects
+- **💌 Funny Invites - Use it, they can't say no** — Use it, they can't say no
 - 📱 **[iosbk - iOS Backup Utility](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
 - 📶 **[WiFi QR Code Generator](https://github.com/alessio-signorini/wifi-qrcode-generator)** — QR Code Generator for Wifi Networks
 - ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
+- **🗓️ TinyTimesheets - lightweight macOS menu bar app to track time** — lightweight macOS menu bar app to track time
 - 📑 **[Tiny Markdown Render](http://alessiosignorini.com/tiny-markdown-render-extension/)** — Tiny Chrome Extension that Render Markdown as clean HTML
 - 📝 **[AppleNoted](https://github.com/alessio-signorini/notes-imap-server)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
 - **📚 Knowledge Collector** — Generate a beautiful documentation site from meeting transcripts
