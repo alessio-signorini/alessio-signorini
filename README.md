@@ -51,11 +51,11 @@
 
 
 ## ✍️ Latest Blog Posts
+- [Personal Training in the AI Era](https://blog.alessiosignorini.com/personal-training-in-the-ai-era/) (Nov 2, 2026)
+- [AI Budgets and Compensation Packages](https://blog.alessiosignorini.com/ai-budgets-and-compensation-packages/) (Oct 29, 2026)
 - [My Week with Hermes: A Glimpse into the AI Assistant Future](https://blog.alessiosignorini.com/my-week-with-hermes-a-glimpse-into-the-ai-assistant-future/) (Sep 20, 2026)
 - [Rediscovering Lost Knowledge in Legacy Code with LLMs](https://blog.alessiosignorini.com/rediscovering-lost-knowledge-in-legacy-code-with-llms/) (Sep 18, 2026)
 - [Deterministic Tasks Don’t Need AI Smarts](https://blog.alessiosignorini.com/deterministic-tasks-dont-need-ai-smarts/) (Sep 12, 2026)
-- [Models+Harness - When Medium Reasoning Beats Maximum Power](https://blog.alessiosignorini.com/modelsharness-when-medium-reasoning-beats-maximum-power/) (Aug 4, 2026)
-- [Vertical Models are coming](https://blog.alessiosignorini.com/vertical-models-are-coming/) (Mar 27, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
