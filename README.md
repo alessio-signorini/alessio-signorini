@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 Projects
+- **📚 kindle-feed** — Upload News and Other Books to your Kindle every day
 - 👣 **[OneIn](https://onein.signorini.dev)** — Simple UI to explore how many people match your criteria in a given place
 - 💌 **[Funny Invites - Use it, they can't say no](https://invites.signorini.dev/jen-weekend-in-nyc)** — Use it, they can't say no
 - 📱 **[iosbk - iOS Backup Utility](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
