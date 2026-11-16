@@ -15,10 +15,11 @@
 ---
 
 ## 🚀 Projects
+- 🗺️ **[Tripbook](https://trips.signorini.us)** — PWA to edit and publish your city guides or trip logs on your own domain via Github Pages
 - **📚 kindle-feed** — Upload News and Other Books to your Kindle every day
 - 👣 **[OneIn](https://onein.signorini.dev)** — Simple UI to explore how many people match your criteria in a given place
-- 💌 **[Funny Invites - Use it, they can't say no](https://invites.signorini.dev/jen-weekend-in-nyc)** — Use it, they can't say no
-- 📱 **[iosbk - iOS Backup Utility](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
+- 💌 **[Funny Invites](https://invites.signorini.dev/jen-weekend-in-nyc)** — Invites you can't say no to!
+- 📱 **[iosbk](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
 - 📶 **[WiFi QR Code Generator](https://wifi-qrcode.signorini.dev)** — QR Code Generator for Wifi Networks
 - ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
 - **🗓️ TinyTimesheets** — lightweight macOS menu bar app to track time
