@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 Projects
+- 🧹 **[mac-cleanup](https://github.com/alessio-signorini/mac-cleanup)** — Reclaim disk space on macOS without being surprised by what gets deleted
 - 🗺️ **[Tripbook](https://trips.signorini.us)** — PWA to edit and publish your city guides or trip logs on your own domain via Github Pages
 - **📚 kindle-feed** — Upload News and Other Books to your Kindle every day
 - 👣 **[OneIn](https://onein.signorini.dev)** — Simple UI to explore how many people match your criteria in a given place
@@ -54,11 +55,11 @@
 
 
 ## ✍️ Latest Blog Posts
+- [How I Build Software Now](https://blog.alessiosignorini.com/how-i-build-software-now/) (Nov 16, 2026)
 - [Personal Training in the AI Era](https://blog.alessiosignorini.com/personal-training-in-the-ai-era/) (Nov 2, 2026)
 - [AI Budgets and Compensation Packages](https://blog.alessiosignorini.com/ai-budgets-and-compensation-packages/) (Oct 29, 2026)
 - [My Week with Hermes: A Glimpse into the AI Assistant Future](https://blog.alessiosignorini.com/my-week-with-hermes-a-glimpse-into-the-ai-assistant-future/) (Sep 20, 2026)
 - [Rediscovering Lost Knowledge in Legacy Code with LLMs](https://blog.alessiosignorini.com/rediscovering-lost-knowledge-in-legacy-code-with-llms/) (Sep 18, 2026)
-- [Deterministic Tasks Don’t Need AI Smarts](https://blog.alessiosignorini.com/deterministic-tasks-dont-need-ai-smarts/) (Sep 12, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
