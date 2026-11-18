@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Projects
-- 📸 **[KeeperShot](https://github.com/alessio-signorini/keeper-shot)** — Turn a burst of group photos into one where everyone looks great
+- 📸 **[KeeperShot](http://keepershot.signorini.dev/)** — Turn a burst of group photos into one where everyone looks great
 - 🧹 **[mac-cleanup](https://github.com/alessio-signorini/mac-cleanup)** — Reclaim disk space on macOS without being surprised by what gets deleted
 - 🗺️ **[Tripbook](https://trips.signorini.us)** — PWA to edit and publish your city guides or trip logs on your own domain via Github Pages
 - **📚 kindle-feed** — Upload News and Other Books to your Kindle every day
