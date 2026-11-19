@@ -15,44 +15,44 @@
 ---
 
 ## 🚀 Projects
-- 📸 **[KeeperShot](http://keepershot.signorini.dev/)** — Turn a burst of group photos into one where everyone looks great
-- 🧹 **[mac-cleanup](https://github.com/alessio-signorini/mac-cleanup)** — Reclaim disk space on macOS without being surprised by what gets deleted
-- 🗺️ **[Tripbook](https://trips.signorini.us)** — PWA to edit and publish your city guides or trip logs on your own domain via Github Pages
-- **📚 kindle-feed** — Upload News and Other Books to your Kindle every day
-- 👣 **[OneIn](https://onein.signorini.dev)** — Simple UI to explore how many people match your criteria in a given place
-- 💌 **[Funny Invites](https://invites.signorini.dev/jen-weekend-in-nyc)** — Invites you can't say no to!
-- 📱 **[iosbk](https://github.com/alessio-signorini/iphone-reset-utility)** — iOS Backup Utility
-- 📶 **[WiFi QR Code Generator](https://wifi-qrcode.signorini.dev)** — QR Code Generator for Wifi Networks
-- ✈️ **[LayoverQuest](https://layoverquest.signorini.dev)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
-- **🗓️ TinyTimesheets** — lightweight macOS menu bar app to track time
-- 📑 **[Tiny Markdown Render](http://alessiosignorini.com/tiny-markdown-render-extension/)** — Tiny Chrome Extension that Render Markdown as clean HTML
-- 📝 **[AppleNoted](https://github.com/alessio-signorini/notes-imap-server)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
-- **📚 Knowledge Collector** — Generate a beautiful documentation site from meeting transcripts
-- 👨‍💼 **[Candidates Manager](https://candidates.signorini.dev)** — A clean, low-touch candidate tracking system powered by LLM
-- 👖 **[/meet](https://slack-meet-command.signorini.dev)** — Create Google Meet links instantly with a Slack command
-- 🤖 **[Timelog Bot](https://github.com/alessio-signorini/slack-timelog-bot)** — Simple time/project tracking via Slack Bot
-- 📨 **[Tri@ge](http://alessiosignorini.com/triage-email/)** — Intelligent, keyboard-driven email client for Gmail
-- **⛓️ Coworker** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
-- 💬 **[Health Chat](http://healthchat.signorini.dev/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
-- 👥 **[ResourceManager](http://resources.signorini.dev/)** — Web-based resource and budget privacy-first planning tool
-- 📝 **[Blog Copilot](http://jkblog.signorini.dev/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
-- **📑 Slack Channel Summarizer** — Slack Function to Summarize the content of a Channel
-- **📆 Google Tasks to Calendar** — Intelligently Schedule Google Tasks on your Calendar
-- 🔐 **[Simple Passphrase Generator](https://chromewebstore.google.com/detail/simple-passphrase-generat/ifcfhpphhpmancimadhkfpchbjjokeij)** — Simple Chrome Extension that Generates Random Passphrases
-- 📚 **[Morning Reads](https://github.com/alessio-signorini/morning-reads)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
-- 🛍️ **[HelpMeBuy](https://alessiosignorini.com/helpmebuy/)** — Apple-inspired web application to help users find their perfect washing machine
-- 💾 **[APImock](https://github.com/alessio-signorini/apimock)** — Simple but convenient mock API server
-- 🗓️ **[Calendars](https://calendars.signorini.dev)** — Useful Calendars to be added to my Google Calendar
-- 🧑‍⚖️ **[OSS Audit](https://github.com/alessio-signorini/oss_audit)** — Open Source Software Auditor
-- 🔎 **[Private Golinks Server](https://github.com/alessio-signorini/golinks)** — Hosted Golinks Server via DNS
+- 📸 **[KeeperShot](https://alessiosignorini.com/projects/keeper-shot/)** — Turn a burst of group photos into one where everyone looks great
+- 🧹 **[mac-cleanup](https://alessiosignorini.com/projects/mac-cleanup/)** — Reclaim disk space on macOS without being surprised by what gets deleted
+- 🗺️ **[Tripbook](https://alessiosignorini.com/projects/tripbook/)** — PWA to edit and publish your city guides or trip logs on your own domain via Github Pages
+- 📚 **[kindle-feed](https://alessiosignorini.com/projects/kindle-feed/)** — Upload News and Other Books to your Kindle every day
+- 👣 **[OneIn](https://alessiosignorini.com/projects/onein/)** — Simple UI to explore how many people match your criteria in a given place
+- 💌 **[Funny Invites](https://alessiosignorini.com/projects/funny-invites/)** — Invites you can't say no to!
+- 📱 **[iosbk](https://alessiosignorini.com/projects/iphone-reset-utility/)** — iOS Backup Utility
+- 📶 **[WiFi QR Code Generator](https://alessiosignorini.com/projects/wifi-qrcode-generator/)** — QR Code Generator for Wifi Networks
+- ✈️ **[LayoverQuest](https://alessiosignorini.com/projects/layover-quest/)** — Turn your layovers into adventures. LayoverQuest helps travelers discover interesting stopover ci...
+- 🗓️ **[TinyTimesheets](https://alessiosignorini.com/projects/tiny-timesheets/)** — lightweight macOS menu bar app to track time
+- 📑 **[Tiny Markdown Render](https://alessiosignorini.com/projects/tiny-markdown-render-extension/)** — Tiny Chrome Extension that Render Markdown as clean HTML
+- 📝 **[AppleNoted](https://alessiosignorini.com/projects/notes-imap-server/)** — Lightweight IMAP4rev1 encrypted server to edit/sync Apple Notes across devices
+- 📚 **[Knowledge Collector](https://alessiosignorini.com/projects/knowledge-collector/)** — Generate a beautiful documentation site from meeting transcripts
+- 👨‍💼 **[Candidates Manager](https://alessiosignorini.com/projects/candidates-manager/)** — A clean, low-touch candidate tracking system powered by LLM
+- 👖 **[/meet](https://alessiosignorini.com/projects/slack-meet-command/)** — Create Google Meet links instantly with a Slack command
+- 🤖 **[Timelog Bot](https://alessiosignorini.com/projects/slack-timelog-bot/)** — Simple time/project tracking via Slack Bot
+- 📨 **[Tri@ge](https://alessiosignorini.com/projects/triage-email/)** — Intelligent, keyboard-driven email client for Gmail
+- ⛓️ **[Coworker](https://alessiosignorini.com/projects/agents-workflow-github-app/)** — Flexible GitHub App to orchestrates automated multi-agent PR reviews using LLM agents
+- 💬 **[Health Chat](https://alessiosignorini.com/projects/health-chat/)** — ChatGPT-like health app that guides users through health-related questions and validates response...
+- 👥 **[ResourceManager](https://alessiosignorini.com/projects/resources-manager/)** — Web-based resource and budget privacy-first planning tool
+- 📝 **[Blog Copilot](https://alessiosignorini.com/projects/blog-copilot/)** — Mobile-first PWA for managing a blog via Jekyll/GitHub Pages
+- 📑 **[Slack Channel Summarizer](https://alessiosignorini.com/projects/slack-channel-summarizer/)** — Slack Function to Summarize the content of a Channel
+- 📆 **[Google Tasks to Calendar](https://alessiosignorini.com/projects/google-tasks-to-calendar/)** — Intelligently Schedule Google Tasks on your Calendar
+- 🔐 **[Simple Passphrase Generator](https://alessiosignorini.com/projects/chrome-extension-passphrase-generator/)** — Simple Chrome Extension that Generates Random Passphrases
+- 📚 **[Morning Reads](https://alessiosignorini.com/projects/morning-reads/)** — Generates a daily digest of TLDR Tech articles in both EPUB and email formats
+- 🛍️ **[HelpMeBuy](https://alessiosignorini.com/projects/helpmebuy/)** — Apple-inspired web application to help users find their perfect washing machine
+- 💾 **[APImock](https://alessiosignorini.com/projects/apimock/)** — Simple but convenient mock API server
+- 🗓️ **[Calendars](https://alessiosignorini.com/projects/calendars/)** — Useful Calendars to be added to my Google Calendar
+- 🧑‍⚖️ **[OSS Audit](https://alessiosignorini.com/projects/oss-audit/)** — Open Source Software Auditor
+- 🔎 **[Private Golinks Server](https://alessiosignorini.com/projects/golinks/)** — Hosted Golinks Server via DNS
 
 
 ## 🔭 Currently Exploring
-- **VS Extension for Coworking** — Next-gen IDE will have to be built around LLMs/human interaction. I am experimenting with what that may be. Code, graphs, explanations on the edges. The machine writes the code but the human architects it and is in the know.
-- [Claude Cowork](https://docs.anthropic.com) — Pair programming with AI agents — how multi-agent collaboration is changing the way code gets written.
-- [OpenClaw](https://github.com/openclaw/openclaw) — Open-source personal assistant with memory, personality and initiative. Trying to run my own on a cheap Fly.io machine and interact with it via Telegram.
-- [Requirements as Code](https://blog.alessiosignorini.com/requirements-as-code/) — Encoding requirements so AI agents can follow them — moving from natural language specs to machine-verifiable constraints.
-- [Fine-tuning LLMs for corporate codebases](https://blog.alessiosignorini.com/fine-tuning-llms-to-companys-codebase/) — Context management at scale — exploring how to fine-tune models on proprietary code without leaking sensitive data.
+- [KeeperShot](https://alessiosignorini.com/projects/keeper-shot/) — In almost every group photo someone blinks or looks away. Taking several shots helps, but rarely does a single frame have everyone at their best. KeeperShot fixes that turning a burst of near-identical group photos into one where everyone looks great. Private by design: everything runs in your browser. No uploads, no backend.
+- [mac-cleanup](https://alessiosignorini.com/projects/mac-cleanup/) — mac-cleanup scans 19 areas of my Mac (caches, WhatsApp, Docker, Xcode, editors, Claude, dev toolchains, …), shows what can be freed, and lets you review each area in a checkbox list before anything is deleted. It’s a single bash file and needs nothing beyond what ships with macOS.
+- [Tripbook](https://alessiosignorini.com/projects/tripbook/) — Tripbook is two small pieces and no backend. An editor (an installable web app) saves your trips as JSON files in a private GitHub repo, and GitHub Actions turns that repo into a fast static website. GitHub is the database; Google Maps draws the maps.
+- [kindle-feed](https://alessiosignorini.com/projects/kindle-feed/) — Scheduler to fill your Kindle with newsletters and books. Scheduled Ruby system that scrapes newsletters (TLDR, Fox News First, Washington Post “The 7”), turns each issue into a clean EPUB and emails it to one Kindle. Blinkist library books are sent through Blinkist’s own send-to-Kindle API. It runs from an hourly Fly.io scheduled Machine; each run executes only the jobs that are due.
+- [OneIn](https://alessiosignorini.com/projects/onein/) — “How many people around me match this description?” A static, mobile-first site for US and Italian census data (for fun, not accuracy). Frontend only, no database.
 
 
 ## ✍️ Latest Blog Posts
