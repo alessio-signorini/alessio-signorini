@@ -15,6 +15,8 @@
 ---
 
 ## 🚀 Projects
+- 🕹️ **[TV Games](https://alessiosignorini.com/projects/tv-games/)** — Family party games for the TV, with phones as controllers. Scan the QR code and play.
+- 🌦️ **[hyperlocal-forecast](https://alessiosignorini.com/projects/hyperlocal-forecast/)** — Hyperlocal, precise, short-range weather forecasts for specific outdoor spots
 - 📸 **[KeeperShot](https://alessiosignorini.com/projects/keeper-shot/)** — Turn a burst of group photos into one where everyone looks great
 - 🧹 **[mac-cleanup](https://alessiosignorini.com/projects/mac-cleanup/)** — Reclaim disk space on macOS without being surprised by what gets deleted
 - 🗺️ **[Tripbook](https://alessiosignorini.com/projects/tripbook/)** — PWA to edit and publish your city guides or trip logs on your own domain via Github Pages
@@ -48,19 +50,19 @@
 
 
 ## 🔭 Currently Exploring
+- [TV Games](https://alessiosignorini.com/projects/tv-games/) — Family party games for the TV, with phones as controllers. Open the site in the TV browser, scan the QR code with your phones, pick a game and play. No app, no accounts.
+- [hyperlocal-forecast](https://alessiosignorini.com/projects/hyperlocal-forecast/) — Hyperlocal, short-range weather forecasts for named outdoor spots. The first spot is East Beach, Santa Barbara, CA (beach volleyball). For the next 1–48 hours it gives calibrated wind (speed, gusts, direction), temperature, dew point, cloud cover, precipitation and fog probability with uncertainty bands, plus an estimated sand temperature and sun glare per court side. It is served as an installable web app at https://weather.signorini.dev/&lt;spot&gt; with a separate “can we play?” screen.
 - [KeeperShot](https://alessiosignorini.com/projects/keeper-shot/) — In almost every group photo someone blinks or looks away. Taking several shots helps, but rarely does a single frame have everyone at their best. KeeperShot fixes that turning a burst of near-identical group photos into one where everyone looks great. Private by design: everything runs in your browser. No uploads, no backend.
 - [mac-cleanup](https://alessiosignorini.com/projects/mac-cleanup/) — mac-cleanup scans 19 areas of my Mac (caches, WhatsApp, Docker, Xcode, editors, Claude, dev toolchains, …), shows what can be freed, and lets you review each area in a checkbox list before anything is deleted. It’s a single bash file and needs nothing beyond what ships with macOS.
 - [Tripbook](https://alessiosignorini.com/projects/tripbook/) — Tripbook is two small pieces and no backend. An editor (an installable web app) saves your trips as JSON files in a private GitHub repo, and GitHub Actions turns that repo into a fast static website. GitHub is the database; Google Maps draws the maps.
-- [kindle-feed](https://alessiosignorini.com/projects/kindle-feed/) — Scheduler to fill your Kindle with newsletters and books. Scheduled Ruby system that scrapes newsletters (TLDR, Fox News First, Washington Post “The 7”), turns each issue into a clean EPUB and emails it to one Kindle. Blinkist library books are sent through Blinkist’s own send-to-Kindle API. It runs from an hourly Fly.io scheduled Machine; each run executes only the jobs that are due.
-- [OneIn](https://alessiosignorini.com/projects/onein/) — “How many people around me match this description?” A static, mobile-first site for US and Italian census data (for fun, not accuracy). Frontend only, no database.
 
 
 ## ✍️ Latest Blog Posts
+- [Converting Time Capsule into a SMB Drive](https://blog.alessiosignorini.com/converting-time-capsule-into-a-smb-drive/) (Nov 21, 2026)
 - [How I Build Software Now](https://blog.alessiosignorini.com/how-i-build-software-now/) (Nov 16, 2026)
 - [Personal Training in the AI Era](https://blog.alessiosignorini.com/personal-training-in-the-ai-era/) (Nov 2, 2026)
 - [AI Budgets and Compensation Packages](https://blog.alessiosignorini.com/ai-budgets-and-compensation-packages/) (Oct 29, 2026)
 - [My Week with Hermes: A Glimpse into the AI Assistant Future](https://blog.alessiosignorini.com/my-week-with-hermes-a-glimpse-into-the-ai-assistant-future/) (Sep 20, 2026)
-- [Rediscovering Lost Knowledge in Legacy Code with LLMs](https://blog.alessiosignorini.com/rediscovering-lost-knowledge-in-legacy-code-with-llms/) (Sep 18, 2026)
 
 ➡️ [More on the blog](https://blog.alessiosignorini.com)
 
